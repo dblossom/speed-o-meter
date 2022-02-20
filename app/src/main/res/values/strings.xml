@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">speed-o-meter</string>
+    <string name="textUnit">MPH</string>
+    <string name="textSpeedValue">00</string>
+</resources>
